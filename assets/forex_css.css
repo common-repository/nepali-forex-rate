@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+table {
+	border-bottom-style:dotted;
+	border-color:#CCC;
+	width:300px;
+	font-size:12px !important;
+}
+table h5{
+	padding:0 px !important;
+	margin:0px !important;
+	text-transform:none !important;
+	font-size:15px !important;
+}
